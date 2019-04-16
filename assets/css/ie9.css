@@ -1,0 +1,27 @@
+
+
+	body.landing:before, body.landing:after {
+		display: none !important;
+	}
+
+/* Icon */
+
+	.icon.alt {
+		color: inherit !important;
+	}
+
+	.icon.major.alt:before {
+		color: #ffffff !important;
+	}
+
+/* Banner */
+
+	#fibre:after {
+		background-image: Fibre optique.png ;
+	}
+
+/* Footer */
+
+	#footer .icons .icon.alt:before {
+		color: #ffffff !important;
+	}
